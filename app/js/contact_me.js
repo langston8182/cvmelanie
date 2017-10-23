@@ -17,7 +17,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://127.0.0.1:8080/message",
+                url: "http://www.melanieboussat.com:8080/message",
                 type: "POST",
                 data: {
                     name: name,
