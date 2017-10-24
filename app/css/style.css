@@ -647,6 +647,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro .name {
 	font-weight: 600;
+	color: black;
 }
 .intro .intro-text {
 	max-width: 75%;
